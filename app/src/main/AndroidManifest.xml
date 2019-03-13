@@ -12,6 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".SliderAdapter"></activity>
+        <activity android:name=".SlideActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,8 +26,9 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAYujBZL7Y-2H1g2wt5uYSLHKg1z5jWpQM" />
 
-        <activity android:name=".ListPharmacisActivity" android:parentActivityName=".MainActivity"
-            ></activity>
+        <activity
+            android:name=".ListPharmacisActivity"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
