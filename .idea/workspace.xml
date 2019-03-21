@@ -6,6 +6,7 @@
     </configurations>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="f63867dd-1e6b-4b42-b0c2-86657252b817" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -2306,11 +2307,14 @@
   </component>
 =======
 >>>>>>> parent of c3c65d8... Slider
+=======
+>>>>>>> parent of c3c65d8... Slider
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="535" />
     <option name="width" value="1392" />
     <option name="height" value="1057" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -2350,11 +2354,14 @@
   </component>
 =======
 >>>>>>> parent of c3c65d8... Slider
+=======
+>>>>>>> parent of c3c65d8... Slider
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/android-sdk" />
     <property name="device.picker.selection" value="ZY3227G7PQ" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+<<<<<<< HEAD
 <<<<<<< HEAD
   </component>
   <component name="RunDashboard">
@@ -2368,6 +2375,8 @@
         </RuleState>
       </list>
     </option>
+=======
+>>>>>>> parent of c3c65d8... Slider
 =======
 >>>>>>> parent of c3c65d8... Slider
   </component>
@@ -2466,6 +2475,7 @@
       <properties />
       <listeners />
 <<<<<<< HEAD
+<<<<<<< HEAD
     </configuration>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
@@ -2523,10 +2533,16 @@
     <option name="myLimit" value="2678400000" />
 =======
     </configuration>
+=======
+    </configuration>
+>>>>>>> parent of c3c65d8... Slider
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+<<<<<<< HEAD
+>>>>>>> parent of c3c65d8... Slider
+=======
 >>>>>>> parent of c3c65d8... Slider
   </component>
 </project>
