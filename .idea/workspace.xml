@@ -6,6 +6,7 @@
     </configurations>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="8c5c5d5e-9443-4ca7-b693-8241063ff925" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -181,6 +182,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
 =======
+=======
+>>>>>>> parent of c3c65d8... Slider
   <component name="ProjectFrameBounds" extendedState="6">
 >>>>>>> parent of c3c65d8... Slider
     <option name="x" value="535" />
@@ -287,6 +290,7 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
   </component>
   <component name="SvnConfiguration">
@@ -475,10 +479,15 @@
       </provider>
     </entry>
 =======
+=======
+>>>>>>> parent of c3c65d8... Slider
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+<<<<<<< HEAD
+>>>>>>> parent of c3c65d8... Slider
+=======
 >>>>>>> parent of c3c65d8... Slider
   </component>
 </project>
